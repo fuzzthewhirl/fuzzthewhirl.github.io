@@ -31,7 +31,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 locale: fi-FI
 timezone: EEST # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-google_analytics: G-7261R7W4Q9
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7261R7W4Q9"
+    anonymize_ip: false # default
 
 include:
   - _pages
