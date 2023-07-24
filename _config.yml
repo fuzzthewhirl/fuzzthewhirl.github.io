@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/RT-logo.png"
+  avatar : "/assets/images/raudan-taika-full-edited.png"
   bio    : "Blogi raudan taiasta"
   links:
     - label: "Instagram"
