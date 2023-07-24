@@ -58,7 +58,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
   avatar : "/assets/images/RT-logo.png"
   bio    : "Blogi raudan taiasta"
   links:
