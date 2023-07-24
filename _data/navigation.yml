@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Postaukset"
     url: /posts/
-  - title: "Categories"
+  - title: "Kategoriat"
     url: /categories/
-  - title: "Tags"
+  - title: "Tagit"
     url: /tags/
-  - title: "About"
+  - title: "Blogista"
     url: /about/
