@@ -1,5 +1,14 @@
-Kuvia Kowan Teknolokian Päivät® -tapahtumasta vuodelta 2003 liittyen taontaan sekä yleiskuva tapahtuma-alueesta. Muita kuvia ja lisää tietoa kyseisestä tapahtumasta kts. https://www.narvasoft.fi/museo/kowa03.html.
+#taonta
+#ironwork
+#blacksmithing
 
+#wroughtiron
+#takorauta
+
+#raudantaika
+#magicofiron
+
+Kuvia Kowan Teknolokian Päivät® -tapahtumasta vuodelta 2003 liittyen taontaan sekä yleiskuva tapahtuma-alueesta. Muita kuvia ja lisää tietoa kyseisestä tapahtumasta kts. https://www.narvasoft.fi/museo/kowa03.html.
 
 Kuvia Möhkön ruukkipäiviltä vuodelta 2003 (https://mohkonruukki.fi/). Oheinen kuvasarja esittää järvimalmin matkan raudaksi harkkohyttiä hyödyntämällä. Järvestä nostettua malmia pasutetaan harkkohytissä ja pasutuksen tuloksena saadusta rautasienestä on saadaan noin 6 kg raakarautaa, josta poistetaan lopuksi kuona pois kuumentamalla ja takomalla. Taontaan suorittassa kyläpäällikko Jorma Kärkkäinen ja seppä Urpo Parviainen. Suuren työn tuloksena on saatu aihio, josta seppä voi tehdä puukonteriä. Lisää tietoa aiheesta: https://journal.fi/tekniikanwaiheita/article/download/63863/25171/
 
@@ -12,5 +21,37 @@ Lisää kuvia Möhkön ruukkipäiviltä vuodelta 2003 (https://mohkonruukki). DI
 Taontaharrastukseni alkoi seppämestari Seppo Riihosen (https://bongo.fi/seppo-riihonen) opissa Tampereen työväenopiston kurssilla Onkiniemen verstaalla (Onkiniemenkatu 2, 33230 Tampere) vuonna 2003 ja ensimmäisenä taontatehtävänä oli tehdä koukku omalle kahvikupille (omassa tapauksessani tosin teekupille). Viimeisessä kuvassa olevaan taideteokseen minulla ei ole osaa eikä arpaa, mutta lisäsin sen mukaan kuitenkin postaukseen osata verstaan atmosfääriä.
 
 Takorautaa Tampereella. Muutamia otoksia vuosien takaa vuodelta 2003. Kesäisellä iltakävelyllä napsittu kuvia silmään sattuneista takorautaisista kohteista. Kuvia mm. Koskipuiston rautakaitesta, joiden tekemiseen osittain osallistunut Tammerkosken takomo (https://www.tammerkoskentakomo.fi/yritys), joka tuolloin oli kansalaisopistossa taontaa opettavan seppämestari Seppo Riihosen (https://bongo.fi/seppo-riihonen) yritys.
+
+Viikatteen terän taontaa käyttökunton vanhan ajan pajalla perinteisillä palkeilla ja puuhiilellä työskennellen.
+
+#taonta
+#blacksmithing
+#charcoal
+#scythe_peening
+#viikatteen_taonta
+
+#raudantaika
+#magicofiron
+
+Sekalaisia kuvia takorautatöistä Eurooppa-turneelta (Ranska, Espanja, Italia). Random photos of wrought ironworks from Interrail trip to Europe (France, Spain, Italy).
+
+Vielä yksi kuva takorautaportista Euroopan kaupungista, jota en enää muista. One more photo of a wrought ironwork from Interrail trip to Europe (France, Spain, Italy). I cannot recall anymore the exact place.
+
+#wroughtiron
+#europe
+#takorauta
+#eurooppa
+
+#raudantaika
+#magicofiron
+
+
+#wroughtiron
+#europe
+#takorauta
+#eurooppa
+
+#raudantaika
+#magicofiron
 
 
