@@ -7,3 +7,5 @@ main:
     url: /tags/
   - title: "Blogista"
     url: /about/
+  - title: "Kirjallisuusviitteet"
+    url: /references/
